@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e0ebfbfb-b83b-4b72-9ce7-c410171934dd" /># bahamut-privacy-policy
+# bahamut-privacy-policy
 Gizlilik Politikası
 Son Güncelleme Tarihi: 10 Mart 2026
 
