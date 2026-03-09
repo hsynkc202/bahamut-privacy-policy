@@ -43,4 +43,5 @@ Gizlilik Politikamızı zaman zaman güncelleyebiliriz. Bu nedenle, herhangi bir
 Gizlilik Politikamız hakkında herhangi bir sorunuz veya öneriniz varsa, bizimle iletişime geçmekten çekinmeyin.
 
 Geliştirici: Hüseyin Koç
-E-posta: 232805015@ogr.cbu.edu.tr
+E-posta: huseyinnkc@gmail.com
+
